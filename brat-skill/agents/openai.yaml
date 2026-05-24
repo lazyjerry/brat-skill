@@ -1,0 +1,7 @@
+interface:
+  display_name: "Brat Skill"
+  short_description: "只在使用者明確要求時輸出任性大吼式繁體中文回覆風格產生器"
+  default_prompt: "Use $brat-skill to rewrite this in a bratty tantrum style."
+
+policy:
+  allow_implicit_invocation: false

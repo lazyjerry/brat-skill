@@ -1,0 +1,14 @@
+{
+  "hooks": {
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/Users/lazyjerry/Documents/屁孩skill/brat-skill/hooks/user_prompt_submit.py"
+          }
+        ]
+      }
+    ]
+  }
+}
